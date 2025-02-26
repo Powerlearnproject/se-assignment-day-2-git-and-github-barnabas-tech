@@ -77,7 +77,7 @@ Commits aresnapshots of your files ata aspecific point in time recording the cha
 They help in;
 - Tracking changes as they are a detailed history of the project allowing you to see your modification
 - They enable to rivert to previous versions of your code if needed
-- They facilitate collaboration by providing a clear record of who made what changes and when
+- They facilitate collaboration by providing a clear record of who made what changes and when.
 
 Making first commit
 1. Prepare your changes for a commit
